@@ -2,7 +2,7 @@
 
 <img src="media/ukf_highway_tracked.gif" width="700" height="400" />
 
-This projects contains the implementation of an Unscented Kalman Filter to estimate the state of multiple cars on a highway using noisy lidar and radar measurements.
+This project contains an implementation of the Unscented Kalman Filter to estimate the state of multiple cars on a highway using noisy lidar and radar measurements.
 
 The main program can be built and ran by doing the following from the project top directory.
 
